@@ -33,7 +33,7 @@ print(a4) # printing result of division
 
 #2. Write a program that accepts a sentence and replace each occurrence of ‘python’ with ‘pythons’.
 
-a='I love playing with python' # taking input string
+a=input('Enter String') # taking input string
 k=a.replace('python','pythons') # replacing the desired string
 print(k) # printing the desired string
 
